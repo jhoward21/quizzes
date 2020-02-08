@@ -10,7 +10,7 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 
 ## Questions
 
-1. What is `git`❓
+1. What is `git`❓ 
 
 2. What is `bash`❓
 
@@ -29,3 +29,26 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 9. What happens when we enter `npm install`?
 
 10. List 3 of JS's _primitive data types._
+
+## Answers 
+
+1. A program where you can move, create, and share files. 
+
+2. Bash means it will send a file.
+
+3. cd ..
+
+4. Shows all files in a directory.
+
+5. This meas something isn't spelled correctly, or your missing a ";".
+
+6.  const
+
+7. It helps us upload our files to Github.
+
+8. Java Script Object Notation
+
+9. Start a new git program
+
+10. String, variable, and arrays 
+
